@@ -12,7 +12,7 @@ var examp1 = `
   </body>
 </html>
 
-`
+`;
 
 //Example HTML Elements
 document.getElementById("example_1").innerHTML = examp1;

@@ -16,4 +16,4 @@ var examp1 = `
 
 //Example HTML Elements
 document.getElementById("example_1").innerHTML = examp1;
-  
+console.log(examp1);  
